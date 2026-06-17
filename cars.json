@@ -2,6 +2,7 @@
   "cars": [
     {
     "name": "Fiat 600",
+    "folder": "cvr_f600",
     "brand": "Fiat",
     "version": "2.5",
     "author": "SoftCronos",
@@ -18,6 +19,7 @@
     },
     {
     "name": "Fiat uno",
+    "folder": "fiat_uno",
     "brand": "Fiat",
     "version": "2.5",
     "author": "SoftCronos",
