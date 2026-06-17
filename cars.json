@@ -4,11 +4,12 @@
     "name": "Fiat 600",
     "folder": "cvr_f600",
     "brand": "Fiat",
-    "version": "2.5",
+    "version": "2.6",
     "author": "SoftCronos",
     "description": "Fiat 600 F600 – Monomarca...",
     "tags": ["f600", "monomarca"],
     "class": "race",
+    "download":"https://www.patreon.com/file?h=160468427&m=677553327",  
     "specs": {
         "bhp": "168bhp",
         "torque": "215nm",
@@ -18,10 +19,11 @@
     }
     },
     {
-    "name": "Fiat uno",
-    "folder": "fiat_uno",
+    "name": "Fiat 147",
+    "folder": "cvr_147",
+    "download":"https://www.patreon.com/file?h=160468427&m=677553327", 
     "brand": "Fiat",
-    "version": "2.5",
+    "version": "1",
     "author": "SoftCronos",
     "description": "Fiat uno  – Monomarca...",
     "tags": ["f600", "monomarca"],
