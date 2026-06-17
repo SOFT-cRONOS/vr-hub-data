@@ -1,0 +1,36 @@
+{
+  "cars": [
+    {
+    "name": "Fiat 600",
+    "brand": "Fiat",
+    "version": "2.5",
+    "author": "SoftCronos",
+    "description": "Fiat 600 F600 – Monomarca...",
+    "tags": ["f600", "monomarca"],
+    "class": "race",
+    "specs": {
+        "bhp": "168bhp",
+        "torque": "215nm",
+        "weight": "960kg",
+        "topspeed": "195km/h",
+        "acceleration": "8s 0-100"
+    }
+    },
+    {
+    "name": "Fiat uno",
+    "brand": "Fiat",
+    "version": "2.5",
+    "author": "SoftCronos",
+    "description": "Fiat uno  – Monomarca...",
+    "tags": ["f600", "monomarca"],
+    "class": "race",
+    "specs": {
+        "bhp": "168bhp",
+        "torque": "215nm",
+        "weight": "960kg",
+        "topspeed": "195km/h",
+        "acceleration": "8s 0-100"
+    }
+    }
+  ]
+}
